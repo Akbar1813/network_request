@@ -5,8 +5,6 @@ import 'package:network_request/models/employee_model.dart';
 
 class Network{
   static String BASE = "dummy.restapiexample.com";
-  //static Map <String, String> headers = {"Content-type" : "application/json; charset=UTF-8"};
-
 
   // http APIs
   static String API_GET = "/api/v1/employees";
